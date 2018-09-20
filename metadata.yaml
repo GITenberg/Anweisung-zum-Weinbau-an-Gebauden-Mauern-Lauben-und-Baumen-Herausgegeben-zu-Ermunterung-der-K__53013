@@ -1,0 +1,24 @@
+_repo: Anweisung-zum-Weinbau-an-Gebauden-Mauern-Lauben-und-Baumen-Herausgegeben-zu-Ermunterung-der-K__53013
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bornemann, Johann Gottfried
+    gutenberg_agent_id: '47171'
+    url: http://www.gutenberg.org/2009/agents/47171
+description: ''
+gutenberg_issued: '2016-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53013'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Viticulture'
+- GITenberg
+title: 'Anweisung zum Weinbau an Gebäuden, Mauern, Lauben und Bäumen
+
+  Herausgegeben zu Ermunterung der Kinder zu edler Thätigkeit'
+url: http://www.gutenberg.org/ebooks/53013
