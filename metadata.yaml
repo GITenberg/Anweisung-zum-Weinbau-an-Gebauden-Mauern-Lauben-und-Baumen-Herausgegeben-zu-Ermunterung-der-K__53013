@@ -1,11 +1,16 @@
 _repo: Anweisung-zum-Weinbau-an-Gebauden-Mauern-Lauben-und-Baumen-Herausgegeben-zu-Ermunterung-der-K__53013
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53013-h/images/cover.jpg
 creator:
   author:
     agent_name: Bornemann, Johann Gottfried
     gutenberg_agent_id: '47171'
     url: http://www.gutenberg.org/2009/agents/47171
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53013#Anweisung-zum-Weinbau-an-Gebauden-Mauern-Lauben-und-Baumen-Herausgegeben-zu-Ermunterung-der-K_
 gutenberg_issued: '2016-09-08'
 gutenberg_type: Text
 identifiers:
